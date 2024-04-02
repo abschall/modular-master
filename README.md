@@ -14,7 +14,7 @@ Explore my published Eurorack modules:
 
 [**2xVCA**](/2xVCA) - A dual VCA, based on the Mutable Instrument's Veils 2 design. 
 
-[**MOUNTS**] - A dual ADSR module, providing precise control over envelope shaping.
+[**MOUNTS**](/MOUNTS) - A dual ADSR module, whose circuit is based upon the famous Roland SH-101 ADSR.
 
 These utility modules were crafted with care, serving my personal needs and now shared with the community. Stay tuned for forthcoming much more creative modules currently in development.
 
